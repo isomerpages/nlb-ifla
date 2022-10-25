@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: IFLA IT Section Mid-Term Conference - Mar 2023
+description: IFLA IT Section Mid-Term Conference in Mar 2023
+image: /images/ifla-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 
 sections:
     - hero:
         title: Hero title

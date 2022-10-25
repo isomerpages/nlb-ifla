@@ -1,11 +1,11 @@
-title: Title
+title: IFLA IT Section Mid-Term Conference - Mar 2023
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/faviconV2.png
 
 # Site colors
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: '##0d6742'
+  secondary-color: '#2f8662'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -18,7 +18,7 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-description: An Isomer site of the Singapore Government
+description: IFLA IT Section Mid-Term Conference - Mar 2023
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

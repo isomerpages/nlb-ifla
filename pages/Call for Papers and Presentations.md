@@ -47,10 +47,11 @@ Please contact the above for any questions about the conference or presentation 
 All proposals and full papers will be required to be in English. The full papers where provided (max 2,500 words, double line spaced) are due on 15th February 2023.
 
 Important dates:
-* 30th November 2022 -- Deadline for submission  
-* 15th December 2022 -- Notification of selection  
-* 15th February 2023 -- Full papers (where relevant) submitted with author permission form  
-* 2-3 March 2023 -- Satellite conference
+
+| 30th Nov 2022 | Deadline for submission |
+| 15th Dec 2022 | Notification of selection |
+| 15th Feb 2023 | Full papers (where relevant), submitted with author permission form |
+| 2nd and 3rd Mar 2023 | Satellite conference |
 
 Please note:  
 * At least one of the authors must be present to deliver a summary of the paper or present their session during the program in Singapore  

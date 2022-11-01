@@ -33,7 +33,7 @@ Submissions must include:
 *  Format (presentation, panel, workshop, demonstration, poster, etc.)
 
 All proposals should be submitted by email to both the following contacts:
-Dr Edmund Balnaves  
+Dr Edmund Balnaves
 Chair, Information Technology Section
 [ebalnaves@prosentient.com.au](mailto:ebalnaves@prosentient.com.au)
 

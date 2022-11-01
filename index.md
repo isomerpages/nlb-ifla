@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: IFLA IT Section Mid-Term Conference - Mar 2023
-description: IFLA IT Section Mid-Term Conference in Mar 2023
+description: IFLA IT Section Mid-Term Conference - Mar 2023
 image: /images/ifla-logo.png
 permalink: /
 notification: null
@@ -29,3 +29,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+

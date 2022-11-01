@@ -21,6 +21,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      background: /images/ifla-hero-banner.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle

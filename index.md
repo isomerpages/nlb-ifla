@@ -9,7 +9,6 @@ sections:
   - hero:
       title: "AI in Focus: Artificial Intelligence and Libraries"
       subtitle: 2 to 3 March 2023, Singapore
-      background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
       key_highlights:

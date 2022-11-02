@@ -3,7 +3,7 @@ url: https://ifla.nlb.gov.sg
 favicon: /images/favicon-ifla.ico
 colors:
   primary-color: "#0d6742"
-  secondary-color: "#2f8662"
+  secondary-color: "#f47d30"
   media-colors:
     - title: media-color-one
       color: "#49759a"

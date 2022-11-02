@@ -7,7 +7,7 @@ contacts:
   - content:
       - phone: ""
       - email: patrick_cher@nlb.gov.sg
-      - other: Project Manager
+      - other: Project Manager, National Library Board
     title: Patrick Cher
   - content:
       - phone: ""

@@ -1,5 +1,8 @@
 logo: /images/ifla-logo.png
 links:
+  - title: About
+    url: /about
+    sublinks: []
   - title: Call for Papers
     url: /call-for-papers-and-presentations
   - title: Programme

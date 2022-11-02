@@ -2,7 +2,9 @@ logo: /images/ifla-logo.png
 links:
   - title: About
     url: /about
-    sublinks: []
+    sublinks:
+      - title: Conference Venue Information
+        url: /about/conference-venue-info/
   - title: Call for Papers
     url: /call-for-papers-and-presentations
   - title: Programme

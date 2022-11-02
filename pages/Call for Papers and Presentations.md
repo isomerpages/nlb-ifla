@@ -32,9 +32,9 @@ Submissions must include:
 *  Language of presentation  
 *  Format (presentation, panel, workshop, demonstration, poster, etc.)
 
-All proposals should be submitted by email to both the following contacts:
 Dr Edmund Balnaves
 Chair, Information Technology Section
+National Library Board  
 [ebalnaves@prosentient.com.au](mailto:ebalnaves@prosentient.com.au)
 
 Patrick Cher  

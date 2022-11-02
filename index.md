@@ -4,7 +4,7 @@ title: Mar 2023 IFLA IT Section Mid-Term Conference
 description: Mar 2023 IFLA IT Section Mid-Term Conference
 image: /images/ifla-logo.png
 permalink: /
-notification: null
+notification: "Call for Papers & Presentations is open: proposals are due 30 Nov 2022."
 sections:
   - hero:
       title: "AI in Focus: Artificial Intelligence and Libraries"
@@ -29,5 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-

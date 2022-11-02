@@ -34,7 +34,6 @@ Submissions must include:
 
 Dr Edmund Balnaves
 Chair, Information Technology Section
-National Library Board  
 [ebalnaves@prosentient.com.au](mailto:ebalnaves@prosentient.com.au)
 
 Patrick Cher  

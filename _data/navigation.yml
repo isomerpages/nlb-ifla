@@ -1,8 +1,10 @@
 logo: /images/ifla-logo.png
 links:
   - title: About Conference
-    url: /about/conference-venue-info/
+    url: /about/conference/
     sublinks:
+      - title: Conference Theme
+        url: /about/conference/
       - title: Conference Venue Information
         url: /about/conference-venue-info/
       - title: About IFLA IT Section

@@ -1,7 +1,7 @@
 logo: /images/ifla-logo.png
 links:
-  - title: About
-    url: /about
+  - title: About Conference
+    url: /about/conference-venue-info/
     sublinks:
       - title: Conference Venue Information
         url: /about/conference-venue-info/

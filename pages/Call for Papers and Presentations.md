@@ -34,8 +34,8 @@ Submissions must include:
 
 All proposals should be submitted by email to both the following contacts:
 
-Dr Edmund Balnaves
-Chair, Information Technology Section
+Dr Edmund Balnaves  
+Chair, Information Technology Section  
 [ebalnaves@prosentient.com.au](mailto:ebalnaves@prosentient.com.au)
 
 Patrick Cher  

@@ -1,13 +1,13 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/ifla-logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Conference
+    url: /about/conference/
+    sublinks:
+      - title: Conference Theme
+        url: /about/conference/
+      - title: Conference Venue Information
+        url: /about/conference-venue-info/
+      - title: About IFLA IT Section
+        url: https://www.ifla.org/units/it/
+  - title: Call for Papers
+    url: /call-for-papers-and-presentations

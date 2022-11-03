@@ -1,32 +1,17 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Mar 2023 IFLA IT Section Mid-Term Conference
+description: Mar 2023 IFLA IT Section Mid-Term Conference
+image: /images/ifla-logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: "AI in Focus: Artificial Intelligence and Libraries"
+      subtitle: 2 to 3 March 2023, National Library Building Singapore
+      key_highlights:
+        - title: Call for papers & Presentations
+          description: Submission deadline is 30 Nov 2022
+          url: /call-for-papers-and-presentations/
+      background: /images/ifla-hero-banner.png
 ---
-

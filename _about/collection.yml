@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - Conference Theme.md
+      - Conference Venue Information.md

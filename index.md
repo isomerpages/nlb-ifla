@@ -8,9 +8,7 @@ notification: "Call for Papers & Presentations is open: proposals are due 30 Nov
 sections:
   - hero:
       title: "AI in Focus: Artificial Intelligence and Libraries"
-      subtitle: 2 to 3 March 2023, Singapore
-      button: Contact Us
-      url: /contact-us/
+      subtitle: 2 to 3 March 2023, National Library Building Singapore
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -22,10 +20,4 @@ sections:
           description: Page A is important too
           url: /privacy/
       background: /images/ifla-hero-banner.png
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
 ---

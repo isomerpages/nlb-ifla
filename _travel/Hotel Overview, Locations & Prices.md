@@ -3,6 +3,9 @@ title: Hotel Overview, Locations & Prices
 permalink: /travel/hotel-overview/
 description: singapore, hotels, library
 ---
+Hotel accommodations near the conference venue are listed below.
+
+
 | No. | Hotel | Stars | Rate SGL Use (SGD) | Walking Distance (Avg) | Distance to Conference Venue | Address |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | 1     | Mercure Singapore Bugis     | 4     | $199     | 4 min     | 0.2 miles      | [122 Middle Road Mercure Singapore Bugis, Singapore 188973, Singapore](https://www.google.com/maps/place/Mercure+Singapore+Bugis/@1.2996894,103.8486293,17z/data=!3m2!4b1!5s0x31da19bacd96688d:0x808a8be5301860aa!4m8!3m7!1s0x31da19bb220c7639:0xfc3a31ade85ea4bb!5m2!4m1!1i2!8m2!3d1.299684!4d103.853114)     |
@@ -14,6 +17,6 @@ description: singapore, hotels, library
 | 7     | Hotel NuVe Heritage     | 4     | $231     | 3 min     | 0.1 miles     | [13 Purvis Street, Singapore 188592, Singapore](https://www.google.com/maps/place/Hotel+NuVe+Heritage,+City+Hall/@1.2964786,103.853112,17z/data=!3m1!4b1!4m8!3m7!1s0x31da19a572368acd:0x65ec20d58b5dae34!5m2!4m1!1i2!8m2!3d1.2964746!4d103.8553018)     |
 | 8     | ibis Singapore on Bencoolen Hotel     | 3     | $166     | 6 min     | 0.3 miles     | [170 Bencoolen Street, Singapore 189657 Singapore](https://www.google.com/maps/place/ibis+Singapore+on+Bencoolen/@1.3012111,103.8503301,17z/data=!3m2!4b1!5s0x31da19bba45ff099:0x982e9316012fa40b!4m8!3m7!1s0x31da19bba6e345ad:0x5860d34bdd937440!5m2!4m1!1i2!8m2!3d1.3012057!4d103.8525188)     |
 
-_All Rates are indicative and may be subject to change._
+_All rates are indicative and may be subject to change._
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1h5hYz9g-uKFuhL_CU9hjJrdWRBun0Y8&ehbc=2E312F" width="100%" height="480"></iframe>

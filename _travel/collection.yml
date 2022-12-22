@@ -1,4 +1,5 @@
 collections:
   travel:
     output: true
-    order: []
+    order:
+      - Hotel Overview, Locations & Prices.md

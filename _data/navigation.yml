@@ -14,7 +14,7 @@ links:
   - title: Travel
     url: /travel/hotel-overview
     sublinks:
-      - title: Visit Singapore
-        url: https://www.visitsingapore.com/en/
       - title: Hotel Overview & Locations
         url: /travel/hotel-overview
+      - title: Visit Singapore
+        url: https://www.visitsingapore.com/en/

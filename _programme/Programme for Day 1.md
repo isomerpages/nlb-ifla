@@ -21,5 +21,5 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1400     | Development of Mini-AI Games with Digital Humanities for Library User Education<br><br> Helen Chung <br>*College Librarian, Hong Kong SKH Ming Hua Theological College, Hong Kong*    |
 | 1440     | Panel Discussion & Virtual Chat/Discussion     |
 | 1515     | Tea Break     |
-| 1530     | Ethics and AI<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*    |
+| 1530     | Ethics and AI Workshop<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*    |
 | 1800     | Reception & Dinner     |      |

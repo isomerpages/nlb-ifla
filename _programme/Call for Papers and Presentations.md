@@ -3,6 +3,7 @@ title: Call for Papers and Presentations
 permalink: /call-for-papers-and-presentations/
 description: ""
 ---
+
 ## **AI in Focus: Artificial Intelligence and Libraries**
 
 We are witnessing the adoption of AI in all aspects of library operations, including public and reference services, automated classification, customer service through chatbots and discovery systems. Vendors are adding elements of AI in library products including discovery and research platforms. IFLA has recognised the importance of AI and the formation of an AI SIG. The role and impact of AI present both opportunities and challenges. IT plays a significant role in the development and use of AI technologies, but its uses can have considerable impact and possible unintended consequences on library staff, operations and services.

@@ -1,0 +1,5 @@
+collections:
+  travel:
+    output: true
+    order:
+      - Hotel Overview, Locations & Prices.md

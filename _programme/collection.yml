@@ -1,0 +1,7 @@
+collections:
+  programme:
+    output: true
+    order:
+      - Programme for Day 1.md
+      - Programme for Day 2.md
+      - Call for Papers and Presentations.md

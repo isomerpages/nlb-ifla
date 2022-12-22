@@ -18,3 +18,8 @@ links:
         url: /travel/hotel-overview
       - title: Visit Singapore
         url: https://www.visitsingapore.com/en/
+  - title: Registration
+    url: /
+    sublinks:
+      - title: Coming Soon
+        url: /

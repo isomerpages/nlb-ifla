@@ -18,7 +18,7 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1120     | Using Crowd Data to Create New User Experiences: Incorporating Robotic Process Automation, Geovisualisation and Service Robot<br><br>Jacky Wong <br>*Cluster Head, National Institute of Education, Singapore*  <br><br>Feng Yikang <br>*Librarian, National Institute of Education, Singapore*   |
 | 1200     | AI and Audiovisual Collections: Lessons from Australia<br><br>Jacqui Uhlmann <br>*Head of Collection, National Film and Sound Archive of Australia, Australia*     |
 | 1240     | Lunch     |
-| 1400     | Development of Mini-AI Games with Digital Humanities for Library User Education<br><br> Helen Chung <br>*College Librarian, Hong Kong SKH Ming Hua Theological College, Hong Kong*    |
+| 1400     | Development of Mini-AI Games with Digital Humanities for Library User Education<br><br>Dr Helen Chung<br>*College Librarian, Hong Kong SKH Ming Hua Theological College, Hong Kong* <br><br>Yoko Hirose Nagao<br>*CEO, RapidsWide, Japan*    |
 | 1440     | Panel Discussion & Virtual Chat/Discussion     |
 | 1515     | Tea Break     |
 | 1530     | Ethics and AI Workshop<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*    |

@@ -6,8 +6,6 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 ---
 **2 Mar 2023, 0830 to 1800 (Singapore Time)**
 
-
-
 | Time | Programme | Speaker |
 | -------- | -------- | -------- |
 | 0830     | Registration     | -     |
@@ -25,5 +23,3 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1515     | Tea Break     |      |
 | 1530     | Ethics and AI     | Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield*    |
 | 1800     | Reception & Dinner     |      |
-
-

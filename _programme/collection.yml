@@ -2,6 +2,6 @@ collections:
   programme:
     output: true
     order:
-      - Call for Papers and Presentations.md
       - Programme for Day 1.md
       - Programme for Day 2.md
+      - Call for Papers and Presentations.md

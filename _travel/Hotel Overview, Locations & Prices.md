@@ -15,3 +15,5 @@ description: singapore, hotels, library
 | 8     | ibis Singapore on Bencoolen Hotel     | 3     | $166     | 6 min     | 0.3 miles     | [170 Bencoolen Street, Singapore 189657 Singapore](https://www.google.com/maps/place/ibis+Singapore+on+Bencoolen/@1.3012111,103.8503301,17z/data=!3m2!4b1!5s0x31da19bba45ff099:0x982e9316012fa40b!4m8!3m7!1s0x31da19bba6e345ad:0x5860d34bdd937440!5m2!4m1!1i2!8m2!3d1.3012057!4d103.8525188)     |
 
 _All Rates are indicative and may be subject to change._
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1h5hYz9g-uKFuhL_CU9hjJrdWRBun0Y8&ehbc=2E312F" width="100%" height="480"></iframe>

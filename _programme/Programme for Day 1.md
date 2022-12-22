@@ -11,7 +11,7 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 0830     | Registration     |
 | 0845     | NLB Welcome & Conference Logistics<br><br>Patrick Cher<br>*Project Manager, National Library Board, Singapore*     |
 | 0850     | IFLA Welcome & Opening Remarks<br><br>Dr Edmund Balnaves<br>*Chair, IFLA IT Section*     |
-| 0900     | Introduction     |
+| 0900     | Introduction: Guest Speaker<br><br>*TBA*     |
 | 0940     | Librarian Competencies for Artificial Intelligence<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*     |
 | 1020     | Towards a Cross and Creative Approach to Ethical Issues Related to AI at the National Library of France<br><br> Céline Leclaire <br>*Strategic Content Production Officer, National Library of France, France*    |
 | 1100     | Tea Break     |

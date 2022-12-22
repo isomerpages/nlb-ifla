@@ -4,7 +4,7 @@ permalink: /programme/permalink/
 description: programme, ifla, artificial intelligence, ai, machine learning, ml,
   conference, library
 ---
-**2 Mar 2023, 0830 to 1800 (Singapore Time)**
+### **2 Mar 2023, 0830 to 1800 (Singapore Time)**
 
 | Time | Programme | Speaker |
 | -------- | -------- | -------- |

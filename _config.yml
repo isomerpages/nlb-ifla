@@ -1,4 +1,4 @@
-title: Mar 2023 IFLA IT Section Mid-Term Conference
+title: IFLA IT Section Mid-Term Conference
 url: https://ifla.nlb.gov.sg
 favicon: /images/favicon-ifla.ico
 colors:
@@ -15,7 +15,11 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Mar 2023 IFLA IT Section Mid-Term Conference
+description: "This conference is a collaboration between the National Library
+  Board and International Federation of Library Associations (IFLA) IT Section.
+  This conference provides an opportunity to explore AI, including its practical
+  implementation and opportunities on the horizon as well as the ethical,
+  transparency, and unconscious bias considerations for responsible use. "
 permalink: none
 baseurl: ""
 exclude:

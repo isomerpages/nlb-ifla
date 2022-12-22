@@ -5,7 +5,7 @@ description: singapore, hotels, library
 ---
 | No. | Hotel | Stars | Rate SGL Use (SGD) | Walking Distance (Avg) | Distance with Public Transport (Avg) |Distance to Conference Venue | Address |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
-| 1     | Mercure Singapore Bugis     | 4     | $199     | 4 min     | 8 minutes from Bugis and Bras Basah MRT stations     | 0.2 miles      | Text     |
+| 1     | Mercure Singapore Bugis     | 4     | $199     | 4 min     | 8 minutes from Bugis and Bras Basah MRT stations     | 0.2 miles      | 122 Middle Road Mercure Singapore Bugis, Singapore 188973 Singapore     |
 | 2     | Grand Pacific Hotel     | 4     | $156     | 2 min     | Text     | Text     | Text     |
 | 3     | 30 Bencoolen     | 3     | $200     | 6 min     | Text     | Text     | Text     |
 | 4     | V Hotel Bencoolen     | 3     | $141     | 6 min     | Text     | Text     | Text     |

@@ -11,3 +11,8 @@ links:
         url: https://www.ifla.org/units/it/
   - title: Programme
     collection: programme
+  - title: Travel
+    url: /travel
+    sublinks:
+      - title: Visit Singapore
+        url: https://www.visitsingapore.com/en/

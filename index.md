@@ -1,7 +1,11 @@
 ---
 layout: homepage
-title: Mar 2023 IFLA IT Section Mid-Term Conference
-description: Mar 2023 IFLA IT Section Mid-Term Conference
+title: IFLA IT Section Mid-Term Conference
+description: "This conference is a collaboration between the National Library
+  Board and International Federation of Library Associations (IFLA) IT Section.
+  This conference provides an opportunity to explore AI, including its practical
+  implementation and opportunities on the horizon as well as the ethical,
+  transparency, and unconscious bias considerations for responsible use. "
 image: /images/ifla-logo.png
 permalink: /
 notification: ""
@@ -18,3 +22,4 @@ sections:
           description: 3 Mar 2023
           url: https://nlb-ifla-staging.netlify.app/programme/day-2/
 ---
+

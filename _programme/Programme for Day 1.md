@@ -22,4 +22,4 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1440     | Panel Discussion & Virtual Chat/Discussion     |
 | 1515     | Tea Break     |
 | 1530     | Ethics and AI Workshop<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*    |
-| 1800     | Reception & Dinner     |      |
+| 1800     | Reception & Dinner     |

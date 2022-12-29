@@ -18,5 +18,5 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1240     | Lunch     |
 | 1400     | The National Library of Australia and AI - The Use of Machine Learning and Complex Search Algorithms for the Australian Web Archive, Plans For AI, and Considerations for its Use<br><br>David Wong <br>*Chief Information Officer, National Library of Australia, Australia*<br><br>Cathy Pilgrim <br>*Assistant Director-General, National Library of Australia, Australia*     |
 | 1440     | Panel Discussion & Virtual Chat/Discussion     |      |
-| 1600     | Exploring Chatbots and Recommender Engines and Image AI Workshop<br><br> Dr Edmund Balnaves <br>*Director, Prosentient Systems, Australia* <br><br>Harpeet Kaur <br>*Project Manager, National Library Board, Singapore*    |
+| 1600     | Exploring Chatbots and Recommender Engines and Image AI Workshop<br><br> Dr Edmund Balnaves <br>*Director, Prosentient Systems, Australia*   |
 | 1800     | Closing Remarks<br><br> Dr Edmund Balnaves <br>*Director, Prosentient Systems, Australia* <br><br>Patrick Cher <br>*Project Manager, National Library Board, Singapore*     |

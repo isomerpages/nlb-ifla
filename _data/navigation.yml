@@ -19,7 +19,7 @@ links:
       - title: General Travel Information
         url: https://www.visitsingapore.com/travel-guide-tips/travel-requirements/
   - title: Registration
-    url: /
+    url: /registration/overview
     sublinks:
       - title: For in-person attendees
         url: /permalink

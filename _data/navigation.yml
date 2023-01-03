@@ -21,5 +21,7 @@ links:
   - title: Registration
     url: /
     sublinks:
-      - title: Coming Soon
-        url: /
+      - title: For in-person attendees
+        url: /permalink
+      - title: For online attendees
+        url: https://nlbsingapore.zoom.us/webinar/register/WN_0xMS1jzdTp6n8SUdP0-Y2Q

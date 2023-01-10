@@ -14,7 +14,7 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1020     | Exploring Computational Description While Assessing Machine Learning <br><br>Caroline Saccucci <br>*Chief U.S. Programs, Law, and Literature Division, Library of Congress, USA*    |
 | 1100     | Tea Break     |      |
 | 1120     | AI-powered Library Innovations <br><br> Liau Yi Chin <br>*Deputy Director, National Library Board, Singapore*  <br><br>Cally Law <br>*Senior Project Manager, National Library Board, Singapore* <br><br>Ravikumar Panjala <br>*Senior Solutions Architect, National Library Board, Singapore*   |
-| 1200     | Investing in AI: Costs and Prospects for Libraries and Archives<br><br> Kim Bohyun <br>*Associate University Librarian, University of Michigan, USA*     |
+| 1200     | Investing in AI: Costs and Prospects for Libraries and Archives<br><br>Bohyun Kim<br>*Associate University Librarian, University of Michigan, USA*     |
 | 1240     | Lunch     |
 | 1400     | The National Library of Australia and AI - The Use of Machine Learning and Complex Search Algorithms for the Australian Web Archive, Plans For AI, and Considerations for its Use<br><br>David Wong <br>*Chief Information Officer, National Library of Australia, Australia*<br><br>Cathy Pilgrim <br>*Assistant Director-General, National Library of Australia, Australia*     |
 | 1440     | Panel Discussion & Virtual Chat/Discussion     |      |

@@ -19,7 +19,7 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1200     | AI and Audiovisual Collections: Lessons from Australia<br><br>Jacqui Uhlmann<br>*Head of Collection, National Film and Sound Archive of Australia, Australia*     |
 | 1240     | Lunch     |
 | 1400     | Development of Mini-AI Games with Digital Humanities for Library User Education<br><br>Dr Helen Chung<br>*College Librarian, Hong Kong SKH Ming Hua Theological College, Hong Kong* <br><br>Yoko Hirose Nagao<br>*CEO, RapidsWide, Japan*    |
-| 1440     | Panel Discussion & Virtual Chat/Discussion     |
+| 1440     | The Perceptions and Applications of Artificial Intelligence in Academic Libraries in China Mainland<br><br>Yingshen Huang<br>*Librarian, Peking University Medical Library, China*     |
 | 1515     | Tea Break     |
 | 1530     | Ethics and AI Workshop<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*    |
 | 1800     | End of Day 1     |

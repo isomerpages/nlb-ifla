@@ -19,7 +19,9 @@ links:
       - title: General Travel Information
         url: https://www.visitsingapore.com/travel-guide-tips/travel-requirements/
   - title: Registration
-    url: /
+    url: /registration/overview
     sublinks:
-      - title: Coming Soon
-        url: /
+      - title: For in-person attendees
+        url: https://www.eventbrite.sg/e/ifla-satellite-conference-ai-in-focus-ai-and-libraries-tickets-503175299867
+      - title: For online attendees
+        url: https://nlbsingapore.zoom.us/webinar/register/6616727271098/WN_0xMS1jzdTp6n8SUdP0-Y2Q

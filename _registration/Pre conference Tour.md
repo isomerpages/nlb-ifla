@@ -8,7 +8,7 @@ description: Pre-conference tour to Tampines Regional Library to check out the
 ---
 ### Pre-conference Tour&nbsp;
 
-Date/Time: 1 Mar 2023, 1PM<br>
+Date/Time: 1 Mar 2023 (Tue), 1PM<br>
 Venue: Tampines Regional Library<br>
 **[Register for Pre-conference Tour](https://form.gov.sg/63b5230fb6c4900012dac9bb)**
 

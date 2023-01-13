@@ -19,4 +19,4 @@ Check out these videos:
 
 The tour will start at 1PM. Registration is required.
 
-<button class="btn btn-primary sgds" type="button">Register for Pre-conference Tour</button>
+#### **[Register for Pre-conference Tour](https://form.gov.sg/63b5230fb6c4900012dac9bb)**

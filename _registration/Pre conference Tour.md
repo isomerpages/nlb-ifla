@@ -6,7 +6,7 @@ description: Pre-conference tour to Tampines Regional Library to check out the
   solutions of these solutions would include Mobile Bookdrop, Auto Sorter and
   Shelf-reading Robot.
 ---
-\### Pre-conference Tour 
+### Pre-conference Tour 
 
 Date/Time: 1 Mar 2023, 1PM<br>
 
@@ -18,6 +18,7 @@ Check out \[video on Mobile Bookdrop\](https://www.youtube.com/watch?v=Ton4nvIoF
 
 The tour will start at 1PM. Registration is required.
 
+<hr>
 <div
   style="
     font-family: Sans-Serif;

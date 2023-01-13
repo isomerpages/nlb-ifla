@@ -9,7 +9,8 @@ description: Pre-conference tour to Tampines Regional Library to check out the
 ### Pre-conference Tour&nbsp;
 
 Date/Time: 1 Mar 2023, 1PM<br>
-Venue: Tampines Regional Library
+Venue: Tampines Regional Library<br>
+**[Register for Pre-conference Tour](https://form.gov.sg/63b5230fb6c4900012dac9bb)**
 
 Our team of librarians and technologists will guide a small group of visitors in a walking tour around the Tampines Regional Library to view innovative implementations of technologies for library operations such as Mobile Bookdrop, Auto Sorter and Shelf-reading Robot.
 

@@ -15,7 +15,7 @@ Venue: Tampines Regional Library<br>
 Our team of librarians and technologists will guide a small group of visitors in a walking tour around the Tampines Regional Library to view innovative implementations of technologies for library operations such as Mobile Bookdrop, Auto Sorter and Shelf-reading Robot.
 
 Check out these videos:
-1. [Mobile Bookdrop in Tampines Regional Library](https://www.youtube.com/watch?v=Ton4nvIoF7Q) 
+1. [Mobile Bookdrop at Tampines Regional Library](https://www.youtube.com/watch?v=Ton4nvIoF7Q) 
 2. [The Different Robots at the Tampines Regional Library](https://www.youtube.com/watch?v=HpYkYvQxfoE&amp;t=122s)
 
 The tour will start at 1PM. Registration is required.

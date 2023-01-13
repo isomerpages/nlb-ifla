@@ -2,4 +2,5 @@ collections:
   registration:
     output: true
     order:
+      - Pre conference Tour.md
       - Conference Registration.md

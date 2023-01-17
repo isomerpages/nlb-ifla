@@ -22,5 +22,5 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1440     | The Perceptions and Applications of Artificial Intelligence in Academic Libraries in China Mainland<br><br>Yingshen Huang<br>*Librarian, Peking University Medical Library, China*     |
 | 1515     | Tea Break     |
 | 1530     | Impact of Artificial Intelligence on Library Service<br><br>Dr Neli Tshabalala<br>*Director, North-West University, South Africa*    |
-| 1610     | Ethics and AI Workshop<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*    |
+| 1615     | Ethics and AI Workshop<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*    |
 | 1800     | End of Day 1     |

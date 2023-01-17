@@ -15,11 +15,10 @@ sections:
       subtitle: 2 to 3 March 2023, National Library Building Singapore
       background: /images/ifla-hero-banner.png
       key_highlights:
-        - title: Programme for Day 1
-          description: 2 Mar 2023
+        - title: Programmes
+          description: 2-3 Mar 2023
           url: https://nlb-ifla-staging.netlify.app/programme/day-1/
-        - title: Programme for Day 2
-          description: 3 Mar 2023
-          url: https://nlb-ifla-staging.netlify.app/programme/day-2/
+        - title: Registration is open now
+          description: For in-person/online attendees
+          url: https://ifla.nlb.gov.sg/registration/overview/
 ---
-

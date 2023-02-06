@@ -9,7 +9,7 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | Time | Programme |
 | -------- | -------- |
 | 0850     | Welcome Speaker     |
-| 0900     | Guest Speaker <br><br>*TBA*     |
+| 0900     | Guest Speaker<br><br>Dr Ramine Tinati<br>*Managing Director - Applied Intelligence, Accenture*     |
 | 0940     | Introducing NLB Virtual Assistant Library (VAL) Chatbot <br><br>Harpreet Kaur<br>*Project Manager, National Library Board, Singapre*     |
 | 1020     | Exploring Computational Description While Assessing Machine Learning <br><br>Caroline Saccucci <br>*Chief U.S. Programs, Law, and Literature Division, Library of Congress, USA*    |
 | 1100     | Tea Break     |      |

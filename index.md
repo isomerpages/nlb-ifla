@@ -8,7 +8,7 @@ description: "This conference is a collaboration between the National Library
   transparency, and unconscious bias considerations for responsible use. "
 image: /images/ifla-logo.png
 permalink: /
-notification: ""
+notification: Registration for in-person and virtual attendance is currently full.
 sections:
   - hero:
       title: "AI in Focus: Artificial Intelligence and Libraries"
@@ -18,7 +18,4 @@ sections:
         - title: Programmes
           description: 2-3 Mar 2023
           url: https://nlb-ifla-staging.netlify.app/programme/day-1/
-        - title: Registration is open now
-          description: For in-person/online attendees
-          url: https://ifla.nlb.gov.sg/registration/overview/
 ---

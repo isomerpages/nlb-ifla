@@ -6,7 +6,7 @@ description: "This conference is a collaboration between the National Library
   This conference provides an opportunity to explore AI, including its practical
   implementation and opportunities on the horizon as well as the ethical,
   transparency, and unconscious bias considerations for responsible use. "
-image: /images/ifla-logo.png
+image: /images/IFLA-IT-Logo.png
 permalink: /
 notification: Registration for in-person and virtual attendance is currently full.
 sections:
@@ -19,3 +19,4 @@ sections:
           description: 2-3 Mar 2023
           url: https://nlb-ifla-staging.netlify.app/programme/day-1/
 ---
+

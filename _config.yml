@@ -55,7 +55,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://nlb-ifla-staging.netlify.app
 prod: https://nlb-ifla-prod.netlify.app
-shareicon: /images/ifla-logo.png
+shareicon: /images/IFLA-IT-Logo.png
 is_government: true
 facebook-pixel: ""
 google_analytics: UA-50449401-42

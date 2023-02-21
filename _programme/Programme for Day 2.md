@@ -21,3 +21,4 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1520     | Panel Discussion & Virtual Chat/Discussion     |      |
 | 1600     | Exploring Chatbots and Recommender Engines and Image AI Workshop<br><br> Dr Edmund Balnaves <br>*Director, Prosentient Systems, Australia*<br><br>Iman Magdy Khamis<br>*Technical Services Librarian, Faculty Librarian, Northwestern University, Qatar* <br><br>***Note: You may bring your own laptop to follow the workshop.***  |
 | 1800     | Closing Remarks<br><br> Dr Edmund Balnaves <br>*Director, Prosentient Systems, Australia* <br><br>Patrick Cher <br>*Project Manager, National Library Board, Singapore*     |
+| 1815     | End of conference   |

@@ -10,7 +10,7 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | -------- | -------- |
 | 0850     | Welcome Speaker     |
 | 0900     | Guest Speaker<br><br>Walter Lee<br>*Evangelist and Head of Public Safety Consulting, NEC Asia Pacific*     |
-| 0940     | Introducing NLB Virtual Assistant Library (VAL) Chatbot <br><br>Harpreet Kaur<br>*Project Manager, National Library Board, Singapre*     |
+| 0940     | Introducing NLB Virtual Assistant Library (VAL) Chatbot <br><br>Harpreet Kaur<br>*Project Manager, National Library Board, Singapore*     |
 | 1020     | Exploring Computational Description While Assessing Machine Learning <br><br>Caroline Saccucci <br>*Chief, U.S. Programs, Law, and Literature Division, Library of Congress, USA* <br><br>Abigail Potter<br>*Senior Innovation Specialist, Digital Strategy Directorate, Library of Congress, USA*   |
 | 1100     | Tea Break     |      |
 | 1120     | AI-powered Library Innovations <br><br> Liau Yi Chin <br>*Deputy Director, National Library Board, Singapore*  <br><br>Cally Law <br>*Senior Project Manager, National Library Board, Singapore* <br><br>Ravikumar Panjala <br>*Senior Solutions Architect, National Library Board, Singapore*   |

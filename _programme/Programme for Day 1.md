@@ -23,4 +23,5 @@ description: programme, ifla, artificial intelligence, ai, machine learning, ml,
 | 1520     | Tea Break     |
 | 1540     | Panel Discussion & Virtual Chat/Discussion  |
 | 1630    | Ethics and AI Workshop<br><br>Dr Andrew Cox <br>*Senior Lecturer, University of Sheffield, United Kingdom*    |
-| 1800     | End of Day 1     |
+| 1800     | End of Day 1 Satellite Conference     |
+| 1900     | *\*Bonus Session*\*<br>AI SIG Virtual Discussion<br><br>Dr Andrew Cox<br>*Senior Lecturer, University of Sheffield, United Kingdom*<br><br>**Note:** This session is open for all to attend virtually via [Zoom](https://nlbsingapore.zoom.us/j/99848591713?pwd=aDFtR2gwY2J4R2N3VWxCRHhyV0RKUT09).     |

@@ -53,8 +53,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://nlb-ifla-staging.netlify.app
-prod: https://nlb-ifla-prod.netlify.app
+staging: https://staging.d3vd1mxoo0mfaw.amplifyapp.com/
+prod: https://master.d3vd1mxoo0mfaw.amplifyapp.com/
 shareicon: /images/IFLA-IT-Logo.png
 is_government: true
 facebook-pixel: ""
